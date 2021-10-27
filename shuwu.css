@@ -63,13 +63,13 @@ body{
     margin: 0px auto;
 }
 #menu ul{
-    background-image: url(images/menubk.jpg);
+    background-image: url(menubk.jpg);
     height: 50px;
     line-height: 50px;
     list-style-type: none;
 }
 #now{
-    background-image: url(images/menubk_1.png);
+    background-image: url(menubk_1.png);
     height: 50px;
     line-height: 50px;
     list-style-type: none;
@@ -87,7 +87,7 @@ body{
     width: 220px;
 }
 #menu ul li a:hover{
-    background-image: url(images/menubk_1.png);
+    background-image: url(menubk_1.png);
 }
 #haibao{
     width: 1100px;
@@ -130,7 +130,7 @@ body{
     height: 25px;
     line-height: 25px;
     margin-bottom: 5px;
-    background: url(images/book_1.jpg) no-repeat left center;
+    background: url(book_1.jpg) no-repeat left center;
 }
 #news{
     padding: 5px;
@@ -143,7 +143,7 @@ body{
 }
 #news ul li{
     list-style: none;
-    background: url(images/book2.png) no-repeat left center;
+    background: url(book2.png) no-repeat left center;
     padding-left: 25px;
 }
 #news ul li a{
