@@ -447,7 +447,7 @@ body{
     color: #e47d86;
     width: 30px;
     height: 30px;
-    background-image: url(images/shuzibk.jpg);
+    background-image: url(shuzibk.jpg);
     display: block;
 }
 #di1 a:hover{
@@ -470,7 +470,7 @@ body{
 }
 #di2 a:hover,#di3 a:hover,#di4 a:hover,#di5 a:hover{
     color: red;
-    background-image: url(images/shuzibk.jpg);
+    background-image: url(shuzibk.jpg);
 }
 #di5{
     width: 45px;
